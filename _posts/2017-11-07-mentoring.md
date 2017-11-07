@@ -3,13 +3,18 @@ title: "Mentoring"
 bg: white
 color: black
 image: img/mentor.jpg
+style: center
 ---
 
-Having an **embedded media** (photos and video) is often inflexible with a dynamic and **responsive design**.
+# Become a Mentor!
+Mentoring is very important to the future of CloudCV.
+It introduces new people to the world of open source software
+who will enrich our community with their ideas and talents.<br><br/>
+Apart from technical skills, being a mentor requires your time, a clear roadmap for your project and good organization skills. If you think you would be a good fit to mentor one of our projects, do reach out to us!
 
-### Embed your video like this:
-{: .left}
+**Browse this page for potential mentor projects.**
 
-It'll play like this funny video below! Try resizing the page!
+<a href="https://gitter.im/Cloud-CV/Lobby">**Contact**</a>
+us or email at **deshraj@cloudcv.org**,
+if you have relevant experience and want to get involved.
 
-Photo layouts are also really cool and dynamically resizable. Check out the photos/gallery section at [magiciansanfrancisco.com](http://magiciansanfrancisco.com) for a demo and see [the source code](https://github.com/strongrobert/MagicianSanFrancisco) for how.
