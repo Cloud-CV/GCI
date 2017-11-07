@@ -1,6 +1,10 @@
 .sectiondivider img {
 	height: auto;
-	width: 65%
+	width: 65%;
+}
+
+.sectiondivider h5 {
+  font-weight: 100;
 }
 
 /* anything not desktop */
@@ -42,4 +46,8 @@
 
 .icon-title {
 	color: #33A5E4;
+}
+
+.section {
+  padding: 150px 0px;
 }
