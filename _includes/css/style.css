@@ -1,0 +1,45 @@
+.sectiondivider img {
+	height: auto;
+	width: 65%
+}
+
+/* anything not desktop */
+@media only screen and (max-width: 767px) {
+	.container h1 { font-size: 30px; }
+	.container h2 { font-size: 24px; }
+	.container h3 { font-size: 20px; }
+	.container h4 { font-size: 18px; }
+
+
+  .section { padding:130px 0; }
+  .sectiondivider {
+    width:200px;
+    height:200px;
+    padding:15px;
+    top:-100px;
+    margin-left:-100px;
+  }
+  .sectiondivider .fa-stack {
+    font-size: 100px;
+    margin-top: -14px;
+  }
+  .sectiondivider h5 {
+    font-size:15px;
+    bottom:30px;
+    width:170px
+  }
+
+  .columned {
+    -webkit-column-count: 2;
+    -moz-column-count:    2;
+    column-count:         2;
+  }
+}
+
+.sectiondivider.imaged {
+  text-shadow: 0px 0px 0px;
+}
+
+.icon-title {
+	color: #33A5E4;
+}
