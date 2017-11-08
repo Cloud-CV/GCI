@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "CloudCV-GCI"
+title:       "CloudCV-Google Code In"
 keywords:    "CloudCV, Google Code In, EvalAI, Origami, Fabrik"
 description: "CloudCV website for Google Code In"
 favicon:     "img/favicon.ico"
@@ -27,7 +27,7 @@ favicon:     "img/favicon.ico"
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#33A5E4'
+  blue:      '#3DA2DB'
   green:     '#9bcf2f'
   purple:    '#c869bf'
   orange:    '#fab125'
