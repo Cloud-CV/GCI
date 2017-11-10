@@ -8,6 +8,8 @@
   <title>{{ site.title }}</title>
 	<meta name="keywords" content="{{ site.keywords }}">
 	<meta name="description" content="{{ site.description }}">
+    <!-- Bootstrap Core CSS -->
+  <link href="//oss.maxcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="combo.css">
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
@@ -36,7 +38,7 @@
             <img src="{{page.image}}">
             </i>
           </span>
-          <!-- <h5 class="icon-title">{{ page.title }}</h5> -->
+          <h5 class="icon-title">{{ page.title }}</h5>
         </div>
         {% elsif page.fa-icon %}
         <div class="subtlecircle sectiondivider faicon">
@@ -44,7 +46,7 @@
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
           </span>
-          <!-- <h5 class="icon-title">{{ page.title }}</h5> -->
+          <h5 class="icon-title">{{ page.title }}</h5>
         </div>
         {% endif %}
         <div class="container {{ page.style }}">
