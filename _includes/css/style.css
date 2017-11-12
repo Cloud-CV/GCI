@@ -69,6 +69,10 @@
   cursor: pointer;
 }
 
-.name {
-  padding: 5px 5px 20px 5px;
+.role {
+  padding: 0px 5px 25px 5px;
+}
+
+.pd-5 {
+  padding: 5px;
 }

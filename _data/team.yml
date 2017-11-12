@@ -1,39 +1,52 @@
 - name: Deshraj Yadav
   pic: deshraj.png
   website: https://deshraj.github.io
+  role: Org. Administrator
 - name: Harsh Aggarwal
   pic: harsh.jpg
   website: 
+  role: Org. Administrator
 - name: Viraj Prabhu
   pic: viraj.jpg
   website: https://virajprabhu.github.io/
+  role: Org. Administrator
 - name: Dhruv Batra
   pic: dhruv_batra.jpg
   website: https://www.cc.gatech.edu/~dbatra/index.html
+  role: Org. Administrator
 - name: Akash Jain
   pic: akash.jpeg
   website: https://jainakash.in
+  role: Mentor
 - name: Avais Pragarkar
   pic: user.png
   website: 
+  role: Mentor
 - name: Ayush Arora
   pic: user.png
   website:
+  role: Mentor
 - name: Rishabh Jain
   pic: user.png
   website: https://github.com/RishabhJain2018
-- name: Shiv Baran
+  role: Mentor
+- name: Shiv Baran Singh
   pic: user.png
   website:
+  role: Mentor
 - name: Shivani Prakash
   pic: user.png
   website:
+  role: Mentor
 - name: Taranjeet Singh
   pic: taranjeet.jpeg
   website: http://taranjeet.github.io/
+  role: Mentor
 - name: Utkarsh Gupta
   pic: utkarsh.jpg
   website:
+  role: Mentor
 - name: Utsav Garg
   pic: user.png
   website:
+  role: Mentor
