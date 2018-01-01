@@ -1,10 +1,10 @@
-- name: Deshraj Yadav
+  - name: Deshraj Yadav
   pic: deshraj.png
   website: https://deshraj.github.io
   role: Org. Administrator
 - name: Harsh Aggarwal
   pic: harsh.jpg
-  website: 
+  website: https://dexter1691.github.io/
   role: Org. Administrator
 - name: Viraj Prabhu
   pic: viraj.jpg
@@ -20,11 +20,11 @@
   role: Mentor
 - name: Avais Pragarkar
   pic: user.png
-  website: 
+  website: https://avaisp.github.io/
   role: Mentor
 - name: Ayush Arora
-  pic: user.png
-  website:
+  pic: ayush.jpeg
+  website: https://github.com/aayusharora
   role: Mentor
 - name: Rishabh Jain
   pic: user.png
@@ -32,7 +32,7 @@
   role: Mentor
 - name: Shiv Baran Singh
   pic: user.png
-  website:
+  website: http://www.shivbaran.in/
   role: Mentor
 - name: Shivani Prakash
   pic: user.png
@@ -44,9 +44,9 @@
   role: Mentor
 - name: Utkarsh Gupta
   pic: utkarsh.jpg
-  website:
+  website: https://github.com/uttu357
   role: Mentor
 - name: Utsav Garg
-  pic: user.png
-  website:
+  pic: utsav.jpeg
+  website: https://utsavgarg.github.io/
   role: Mentor
