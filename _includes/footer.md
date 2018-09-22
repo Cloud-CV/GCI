@@ -1,3 +1,3 @@
 
 
-Copyright &copy; 2017 CloudCV. All Rights Reserved.
+Copyright &copy; 2018 CloudCV. All Rights Reserved.
