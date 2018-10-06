@@ -1,3 +1,3 @@
 
 
-Copyright &copy; 2017 CloudCV. All Rights Reserved.
+Copyright &copy; <script type="text/javascript"> document.write(new Date().getFullYear());</script>  CloudCV. All Rights Reserved.
