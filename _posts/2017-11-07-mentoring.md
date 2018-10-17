@@ -1,7 +1,7 @@
 ---
 title: "Mentoring"
-bg: white
-color: black
+bg: blue
+color: white
 image: img/mentor.jpg
 style: center
 ---
