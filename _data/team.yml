@@ -34,18 +34,6 @@
   pic: user.png
   website: https://github.com/yashdusing
   role: Mentor
-- name: Deshraj Yadav
-  pic: deshraj.png
-  website: https://deshraj.github.io
-  role: Org. Administrator
-- name: Dhruv Batra
-  pic: dhruv_batra.jpg
-  website: https://www.cc.gatech.edu/~dbatra/index.html
-  role: Org. Administrator
-- name: Harsh Aggarwal
-  pic: harsh.jpg
-  website: https://dexter1691.github.io/
-  role: Org. Administrator
 - name: Rishabh Jain
   pic: rishabh.jpeg
   website: http://rishabhjain2018.github.io
@@ -53,4 +41,16 @@
 - name: Utsav Garg
   pic: utsav.jpg
   website: https://utsavgarg.github.io/
+  role: Org. Administrator
+- name: Deshraj Yadav
+  pic: deshraj.png
+  website: https://deshraj.github.io
+  role: Org. Administrator
+- name: Harsh Aggarwal
+  pic: harsh.jpg
+  website: https://dexter1691.github.io/
+  role: Org. Administrator
+- name: Dhruv Batra
+  pic: dhruv_batra.jpg
+  website: https://www.cc.gatech.edu/~dbatra/index.html
   role: Org. Administrator
