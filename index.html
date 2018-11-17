@@ -24,6 +24,8 @@
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
+      <!-- Using p-mentoring class for cutom link to keep same style --> 
+      <li class="p-mentoring"><a href="/2017" target="_blank">Previous Year</a></li>
     </ul></nav>
 
 

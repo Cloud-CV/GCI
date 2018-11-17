@@ -27,19 +27,16 @@ $.extend($.easing,
 
         //attatch click listeners
     	navItems.on('click', function(event){
-            if($(this).attr("href").charAt(0) == '#')
-            {
-        		event.preventDefault();
-                var navID = $(this).attr("href").substring(1);
-                disableScrollFn = true;
-                activateNav(navID);
-                populateDestinations(); //recalculate these!
-            	$('html,body').animate({scrollTop: sections[navID] - settings.scrollToOffset},
-                    settings.scrollSpeed, "easeInOutExpo", function(){
-                        disableScrollFn = false;
-                    }
-                );
-            }
+    		event.preventDefault();
+            var navID = $(this).attr("href").substring(1);
+            disableScrollFn = true;
+            activateNav(navID);
+            populateDestinations(); //recalculate these!
+        	$('html,body').animate({scrollTop: sections[navID] - settings.scrollToOffset},
+                settings.scrollSpeed, "easeInOutExpo", function(){
+                    disableScrollFn = false;
+                }
+            );
     	});
 
         //populate lookup of clicable elements and destination sections
@@ -60,11 +57,9 @@ $.extend($.easing,
 
     function populateDestinations() {
         navItems.each(function(){
-            if($(this).attr("href").charAt(0) == '#'){
-                var scrollID = $(this).attr('href').substring(1);
-                navs[scrollID] = (settings.activateParentNode)? this.parentNode : this;
-                sections[scrollID] = $(document.getElementById(scrollID)).offset().top;
-            }
+            var scrollID = $(this).attr('href').substring(1);
+            navs[scrollID] = (settings.activateParentNode)? this.parentNode : this;
+            sections[scrollID] = $(document.getElementById(scrollID)).offset().top;
         });
     }
 
@@ -97,3 +92,4 @@ $(document).ready(function (){
 	});
 
 });
+
