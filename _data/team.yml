@@ -1,3 +1,47 @@
+- name: Bharath Raj
+  pic: bharath.jpg
+  website: https://thatbrguy.github.io
+  role: Mentor
+- name: Deepesh Pathak
+  pic: fristonio.jpeg
+  website: https://github.com/fristonio
+  role: Mentor
+- name: Erika Tan
+  pic: erika.jpg
+  website: https://github.com/erikaaatan
+  role: Mentor
+- name: Kartik Verma
+  pic: kartik.jpeg
+  website: http://vkartik97.github.io
+  role: Mentor
+- name: Palash Taneja
+  pic: user.png
+  website:
+  role: Mentor
+- name: Ram Ramrakhya
+  pic: ram.jpg
+  website: http://ram81.github.io/
+  role: Mentor
+- name: Tushar Mittal
+  pic: tushar.png
+  website: http://techytushar.github.io/
+  role: Mentor
+- name: Vipin Singh
+  pic: user.png
+  website: https://github.com/vpn1997
+  role: Mentor
+- name: Yash Dusing
+  pic: user.png
+  website: https://github.com/yashdusing
+  role: Mentor
+- name: Rishabh Jain
+  pic: rishabh.jpeg
+  website: http://rishabhjain2018.github.io
+  role: Org. Administrator
+- name: Utsav Garg
+  pic: utsav.jpg
+  website: https://utsavgarg.github.io/
+  role: Org. Administrator
 - name: Deshraj Yadav
   pic: deshraj.png
   website: https://deshraj.github.io
@@ -6,47 +50,7 @@
   pic: harsh.jpg
   website: https://dexter1691.github.io/
   role: Org. Administrator
-- name: Viraj Prabhu
-  pic: viraj.jpg
-  website: https://virajprabhu.github.io/
-  role: Org. Administrator
 - name: Dhruv Batra
   pic: dhruv_batra.jpg
   website: https://www.cc.gatech.edu/~dbatra/index.html
   role: Org. Administrator
-- name: Akash Jain
-  pic: akash.jpeg
-  website: https://jainakash.in
-  role: Mentor
-- name: Avais Pragarkar
-  pic: user.png
-  website: https://avaisp.github.io/
-  role: Mentor
-- name: Ayush Arora
-  pic: ayush.jpg
-  website: https://github.com/aayusharora
-  role: Mentor
-- name: Rishabh Jain
-  pic: rishabh.jpeg
-  website: https://github.com/RishabhJain2018
-  role: Mentor
-- name: Shiv Baran Singh
-  pic: shiv.jpeg
-  website: http://www.shivbaran.in/
-  role: Mentor
-- name: Shivani Prakash
-  pic: user.png
-  website:
-  role: Mentor
-- name: Taranjeet Singh
-  pic: taranjeet.jpeg
-  website: http://taranjeet.github.io/
-  role: Mentor
-- name: Utkarsh Gupta
-  pic: utkarsh.jpg
-  website: https://github.com/uttu357
-  role: Mentor
-- name: Utsav Garg
-  pic: utsav.jpg
-  website: https://utsavgarg.github.io/
-  role: Mentor
