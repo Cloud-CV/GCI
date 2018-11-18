@@ -508,42 +508,50 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-team { border-color: #f8f8f8; }
-  #team { background-color: #f8f8f8 !important; color: #111111; }
-  #team a { color: #111111; }
-  #team .sectiondivider { color: #f8f8f8; }
+  nav .p-team { border-color: #3DA2DB; }
+  #team { background-color: #3DA2DB !important; color: #f8f8f8; }
+  #team a { color: #f8f8f8; }
+  #team .sectiondivider { color: #3DA2DB; }
 
   
   
   
-  nav .p-mentoring { border-color: #3DA2DB; }
-  #mentoring { background-color: #3DA2DB !important; color: #f8f8f8; }
-  #mentoring a { color: #f8f8f8; }
-  #mentoring .sectiondivider { color: #3DA2DB; }
+  nav .p-mentoring { border-color: #f8f8f8; }
+  #mentoring { background-color: #f8f8f8 !important; color: #111111; }
+  #mentoring a { color: #111111; }
+  #mentoring .sectiondivider { color: #f8f8f8; }
 
   
   
   
-  nav .p-origami { border-color: #f8f8f8; }
-  #origami { background-color: #f8f8f8 !important; color: #111111; }
-  #origami a { color: #111111; }
-  #origami .sectiondivider { color: #f8f8f8; }
+  nav .p-origami { border-color: #3DA2DB; }
+  #origami { background-color: #3DA2DB !important; color: #f8f8f8; }
+  #origami a { color: #f8f8f8; }
+  #origami .sectiondivider { color: #3DA2DB; }
 
   
   
   
-  nav .p-fabrik { border-color: #3DA2DB; }
-  #fabrik { background-color: #3DA2DB !important; color: #f8f8f8; }
-  #fabrik a { color: #f8f8f8; }
-  #fabrik .sectiondivider { color: #3DA2DB; }
+  nav .p-fabrik { border-color: #f8f8f8; }
+  #fabrik { background-color: #f8f8f8 !important; color: #111111; }
+  #fabrik a { color: #111111; }
+  #fabrik .sectiondivider { color: #f8f8f8; }
 
   
   
   
-  nav .p-evalai { border-color: #f8f8f8; }
-  #evalai { background-color: #f8f8f8 !important; color: #111111; }
-  #evalai a { color: #111111; }
-  #evalai .sectiondivider { color: #f8f8f8; }
+  nav .p-evalai { border-color: #3DA2DB; }
+  #evalai { background-color: #3DA2DB !important; color: #f8f8f8; }
+  #evalai a { color: #f8f8f8; }
+  #evalai .sectiondivider { color: #3DA2DB; }
+
+  
+  
+  
+  nav .p-cloudcv { border-color: #f8f8f8; }
+  #cloudcv { background-color: #f8f8f8 !important; color: #111111; }
+  #cloudcv a { color: #111111; }
+  #cloudcv .sectiondivider { color: #f8f8f8; }
 
   
   
