@@ -1,0 +1,24 @@
+- name: Gautam Jajoo
+  pic: gautam.jpg
+  website: https://github.com/gautamjajoo
+  role: Grand Prize Winner
+- name: Sayam Kanwar
+  pic: sayam.jpg
+  website: https://github.com/sayamkanwar
+  role: Grand Prize Winner
+- name: Abhigyan Bhusal
+  pic: abhigyan.jpg
+  website: https://github.com/haabhi
+  role: Finalist
+- name: Itai Steinherz
+  pic: user.png
+  website: https://github.com/itaisteinherz
+  role: Finalist
+- name: Lint
+  pic: user.png
+  website: https://github.com/C0derLint
+  role: Finalist
+- name: ZeroZeroJedenJeden
+  pic: user.png
+  website: https://github.com/ZeroZeroJedenJeden
+  role: Finalist
