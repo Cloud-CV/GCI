@@ -1,40 +1,40 @@
-- name: Khalid Riyaz
-  pic: user.png
-  website: https://github.com/KhalidRmb
-  role: Mentor
 - name: Kartik Verma
   pic: kartik.jpeg
   website: http://vkartik97.github.io
   role: Mentor
-- name: Yash Dusing
-  pic: yash.jpg
-  website: https://yashdusing.github.io
-  role: Mentor
-- name: Pushkal Katara
-  pic: pushkal.jpg
-  website: https://github.com/pushkalkatara
+- name: Khalid Riyaz
+  pic: user.png
+  website: https://github.com/KhalidRmb
   role: Mentor
 - name: Mayank Lunayach
   pic: lunayach.jpg
   website: https://github.com/lunayach
   role: Mentor
+- name: Pushkal Katara
+  pic: pushkal.jpg
+  website: https://github.com/pushkalkatara
+  role: Mentor
 - name: Sanjeev Singh
   pic: sanjeev.jpg
   webiste: https://sanji515.github.io
   role: Mentor
-- name: Ram Ramrakhya
-  pic: ram.jpg
-  website: https://ram81.github.io
-  role: Org. Administrator
-- name: Utsav Garg
-  pic: utsav.jpg
-  website: https://utsavgarg.github.io/
-  role: Org. Administrator
+- name: Yash Dusing
+  pic: yash.jpg
+  website: https://yashdusing.github.io
+  role: Mentor
 - name: Deshraj Yadav
   pic: deshraj.png
   website: https://deshraj.github.io
   role: Org. Administrator
+- name: Ram Ramrakhya
+  pic: ram.jpg
+  website: https://ram81.github.io
+  role: Org. Administrator
 - name: Rishabh Jain
   pic: rishabh.jpg
   website: https://rishabhjain2018.github.io
+  role: Org. Administrator
+- name: Utsav Garg
+  pic: utsav.jpg
+  website: https://utsavgarg.github.io/
   role: Org. Administrator
