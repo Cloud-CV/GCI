@@ -1,42 +1,30 @@
-- name: Bharath Raj
-  pic: bharath.jpg
-  website: https://thatbrguy.github.io
-  role: Mentor
-- name: Deepesh Pathak
-  pic: fristonio.jpeg
-  website: https://github.com/fristonio
-  role: Mentor
-- name: Erika Tan
-  pic: erika.jpg
-  website: https://github.com/erikaaatan
+- name: Khalid Riyaz
+  pic: user.png
+  website: https://github.com/KhalidRmb
   role: Mentor
 - name: Kartik Verma
   pic: kartik.jpeg
   website: http://vkartik97.github.io
   role: Mentor
-- name: Palash Taneja
-  pic: palash.jpg
-  website: https://github.com/PalashTanejaPro
+- name: Yash Dusing
+  pic: yash.jpg
+  website: https://yashdusing.github.io
+  role: Mentor
+- name: Pushkal Katara
+  pic: pushkal.jpg
+  website: https://github.com/pushkalkatara
+  role: Mentor
+- name: Mayank Lunayach
+  pic: lunayach.jpg
+  website: https://github.com/lunayach
+  role: Mentor
+- name: Sanjeev Singh
+  pic: sanjeev.jpg
+  webiste: https://sanji515.github.io
   role: Mentor
 - name: Ram Ramrakhya
   pic: ram.jpg
-  website: http://ram81.github.io/
-  role: Mentor
-- name: Tushar Mittal
-  pic: tushar.png
-  website: http://techytushar.github.io/
-  role: Mentor
-- name: Vipin Singh
-  pic: user.png
-  website: https://github.com/vpn1997
-  role: Mentor
-- name: Yash Dusing
-  pic: yash.jpeg
-  website: https://github.com/yashdusing
-  role: Mentor
-- name: Rishabh Jain
-  pic: rishabh.jpeg
-  website: http://rishabhjain2018.github.io
+  website: https://ram81.github.io
   role: Org. Administrator
 - name: Utsav Garg
   pic: utsav.jpg
@@ -46,11 +34,7 @@
   pic: deshraj.png
   website: https://deshraj.github.io
   role: Org. Administrator
-- name: Harsh Aggarwal
-  pic: harsh.jpg
-  website: https://dexter1691.github.io/
-  role: Org. Administrator
-- name: Dhruv Batra
-  pic: dhruv_batra.jpg
-  website: https://www.cc.gatech.edu/~dbatra/index.html
+- name: Rishabh Jain
+  pic: rishabh.jpg
+  website: https://rishabhjain2018.github.io
   role: Org. Administrator

@@ -1,25 +1,24 @@
-- name: Gautam Jajoo
-  pic: gautam.jpg
-  website: https://github.com/gautamjajoo
+- name: Kaustubh Maske Patil
+  pic: kaustubh.jpg
+  website: https://github.com/nikochiko
   role: Grand Prize Winner
-- name: Sayam Kanwar
-  pic: sayam.jpg
-  website: https://github.com/sayamkanwar
+- name: Jayaike Ndu
+  pic: jay.jpg
+  website: https://github.com/nsjcorps
   role: Grand Prize Winner
-- name: Abhigyan Bhusal
-  pic: abhigyan.jpg
-  website: https://github.com/haabhi
-  role: Finalist
-- name: Itai Steinherz
+- name: Takitsuse Nagisa
   pic: user.png
-  website: https://github.com/itaisteinherz
-  role: Finalist
-- name: Lint
+  website: https://github.com/takitsuse
+  role: Runner Up
+- name: Suryansh5545
   pic: user.png
-  website: https://github.com/C0derLint
-  role: Finalist
-- name: ZeroZeroJedenJeden
+  website: https://github.com/Suryansh5545
+  role: Runner Up
+- name: "@drepram"
   pic: user.png
-  website: https://github.com/ZeroZeroJedenJeden
+  website: https://drepram.com/
   role: Finalist
-  
+- name: Abee
+  pic: user.png
+  website: https://github.com/abinav62
+  role: Finalist
